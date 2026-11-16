@@ -1,0 +1,257 @@
+[
+  {
+    "id": 1,
+    "titulo": "Romeo y Julieta",
+    "anio_edicion": 1597,
+    "precio": 5000,
+    "autor": {
+      "id": 1,
+      "nombre": "William Shakespeare",
+      "nacionalidad": "Ingleaterra",
+      "email": "shakespeare@gmail.com"
+    },
+    "editorial": {
+      "id": 1,
+      "nombre": "Acantilado",
+      "pais": "Argentina"
+    }
+  },
+  {
+    "id": 2,
+    "titulo": "Hamlet",
+    "anio_edicion": 1603,
+    "precio": 4000,
+    "autor": {
+      "id": 1,
+      "nombre": "William Shakespeare",
+      "nacionalidad": "Ingleaterra",
+      "email": "shakespeare@gmail.com"
+    },
+    "editorial": {
+      "id": 1,
+      "nombre": "Acantilado",
+      "pais": "Argentina"
+    }
+  },
+  {
+    "id": 3,
+    "titulo": "Macbeth",
+    "anio_edicion": 1606,
+    "precio": 4400,
+    "autor": {
+      "id": 1,
+      "nombre": "William Shakespeare",
+      "nacionalidad": "Ingleaterra",
+      "email": "shakespeare@gmail.com"
+    },
+    "editorial": {
+      "id": 2,
+      "nombre": "Planeta",
+      "pais": "Argentina"
+    }
+  },
+  {
+    "id": 4,
+    "titulo": "El rey Lear",
+    "anio_edicion": 1608,
+    "precio": 4900,
+    "autor": {
+      "id": 1,
+      "nombre": "William Shakespeare",
+      "nacionalidad": "Ingleaterra",
+      "email": "shakespeare@gmail.com"
+    },
+    "editorial": {
+      "id": 2,
+      "nombre": "Planeta",
+      "pais": "Argentina"
+    }
+  },
+  {
+    "id": 5,
+    "titulo": "Fervor de Buenos Aires",
+    "anio_edicion": 1923,
+    "precio": 4000,
+    "autor": {
+      "id": 2,
+      "nombre": "Jorge Luis Borges",
+      "nacionalidad": "Argentino",
+      "email": "borges@gmail.com"
+    },
+    "editorial": {
+      "id": 3,
+      "nombre": "Taurus",
+      "pais": "Argentina"
+    }
+  },
+  {
+    "id": 6,
+    "titulo": "Ficciones",
+    "anio_edicion": 1944,
+    "precio": 4500,
+    "autor": {
+      "id": 2,
+      "nombre": "Jorge Luis Borges",
+      "nacionalidad": "Argentino",
+      "email": "borges@gmail.com"
+    },
+    "editorial": {
+      "id": 2,
+      "nombre": "Planeta",
+      "pais": "Argentina"
+    }
+  },
+  {
+    "id": 7,
+    "titulo": "El Aleph",
+    "anio_edicion": 1949,
+    "precio": 3000,
+    "autor": {
+      "id": 2,
+      "nombre": "Jorge Luis Borges",
+      "nacionalidad": "Argentino",
+      "email": "borges@gmail.com"
+    },
+    "editorial": {
+      "id": 2,
+      "nombre": "Planeta",
+      "pais": "Argentina"
+    }
+  },
+  {
+    "id": 8,
+    "titulo": "El hacedor",
+    "anio_edicion": 1960,
+    "precio": 3200,
+    "autor": {
+      "id": 2,
+      "nombre": "Jorge Luis Borges",
+      "nacionalidad": "Argentino",
+      "email": "borges@gmail.com"
+    },
+    "editorial": {
+      "id": 1,
+      "nombre": "Acantilado",
+      "pais": "Argentina"
+    }
+  },
+  {
+    "id": 9,
+    "titulo": "Los premios",
+    "anio_edicion": 1960,
+    "precio": 3200,
+    "autor": {
+      "id": 2,
+      "nombre": "Jorge Luis Borges",
+      "nacionalidad": "Argentino",
+      "email": "borges@gmail.com"
+    },
+    "editorial": {
+      "id": 3,
+      "nombre": "Taurus",
+      "pais": "Argentina"
+    }
+  },
+  {
+    "id": 10,
+    "titulo": "Rayuela",
+    "anio_edicion": 1963,
+    "precio": 3400,
+    "autor": {
+      "id": 3,
+      "nombre": "Julio Cortázar",
+      "nacionalidad": "Argentino",
+      "email": "cortazar@gmail.com"
+    },
+    "editorial": {
+      "id": 3,
+      "nombre": "Taurus",
+      "pais": "Argentina"
+    }
+  },
+  {
+    "id": 11,
+    "titulo": "Todos los fuegos el fuego",
+    "anio_edicion": 1966,
+    "precio": 3900,
+    "autor": {
+      "id": 3,
+      "nombre": "Julio Cortázar",
+      "nacionalidad": "Argentino",
+      "email": "cortazar@gmail.com"
+    },
+    "editorial": {
+      "id": 3,
+      "nombre": "Taurus",
+      "pais": "Argentina"
+    }
+  },
+  {
+    "id": 12,
+    "titulo": "Libro de Manuel",
+    "anio_edicion": 1973,
+    "precio": 5500,
+    "autor": {
+      "id": 3,
+      "nombre": "Julio Cortázar",
+      "nacionalidad": "Argentino",
+      "email": "cortazar@gmail.com"
+    },
+    "editorial": {
+      "id": 1,
+      "nombre": "Acantilado",
+      "pais": "Argentina"
+    }
+  },
+  {
+    "id": 13,
+    "titulo": "La Galatea",
+    "anio_edicion": 1585,
+    "precio": 5100,
+    "autor": {
+      "id": 4,
+      "nombre": "Miguel de Cervantes Saavedra",
+      "nacionalidad": "Argentino",
+      "email": "saavedra@gmail.com"
+    },
+    "editorial": {
+      "id": 2,
+      "nombre": "Planeta",
+      "pais": "Argentina"
+    }
+  },
+  {
+    "id": 14,
+    "titulo": "El ingenioso hidalgo don Quijote de la Mancha",
+    "anio_edicion": 1605,
+    "precio": 4100,
+    "autor": {
+      "id": 4,
+      "nombre": "Miguel de Cervantes Saavedra",
+      "nacionalidad": "Argentino",
+      "email": "saavedra@gmail.com"
+    },
+    "editorial": {
+      "id": 2,
+      "nombre": "Planeta",
+      "pais": "Argentina"
+    }
+  },
+  {
+    "id": 15,
+    "titulo": "Novelas ejemplares",
+    "anio_edicion": 1613,
+    "precio": 4950,
+    "autor": {
+      "id": 4,
+      "nombre": "Miguel de Cervantes Saavedra",
+      "nacionalidad": "Argentino",
+      "email": "saavedra@gmail.com"
+    },
+    "editorial": {
+      "id": 2,
+      "nombre": "Planeta",
+      "pais": "Argentina"
+    }
+  }
+]
